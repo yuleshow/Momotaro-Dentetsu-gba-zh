@@ -1,0 +1,178 @@
+{
+  "source_sha256": "073a385c1ba1bcd517e2cfea659e54d9e2a87cc3ea5f6f17fe0ba169083ec28f",
+  "labels": [
+    {
+      "source": "继续游戏",
+      "target": "繼續遊戲",
+      "pieces": [
+        {
+          "sprite": 1,
+          "x": 0,
+          "width": 64,
+          "height": 32,
+          "offset": "0x00AE2F0C",
+          "sha256": "075ccc286ef254d6c3ef4b741b29e07c0dbe05c8ee0ae85e715fa557229d2717"
+        },
+        {
+          "sprite": 0,
+          "x": 64,
+          "width": 32,
+          "height": 32,
+          "offset": "0x00AE2D0C",
+          "sha256": "d358ad77ca63eaec97f5f5e90ec16d85831590ed6b183e6ffa4487e2c8b6cf06"
+        }
+      ],
+      "pixel_counts": {
+        "0": 2754,
+        "4": 849,
+        "1": 493
+      },
+      "bbox": [
+        2,
+        2,
+        86,
+        22
+      ]
+    },
+    {
+      "source": "开始新游戏",
+      "target": "開始新遊戲",
+      "pieces": [
+        {
+          "sprite": 11,
+          "x": 0,
+          "width": 64,
+          "height": 32,
+          "offset": "0x00AE3C0C",
+          "sha256": "2b7b69e50f476e9a2b87e48a1108721c05713bdf836625a0b0a8fd3c070e3b60"
+        },
+        {
+          "sprite": 10,
+          "x": 64,
+          "width": 32,
+          "height": 32,
+          "offset": "0x00AE3A0C",
+          "sha256": "16efbbdecf4a983de243370446a4e36811a93148b3fd733741f1f753ae463654"
+        },
+        {
+          "sprite": 9,
+          "x": 96,
+          "width": 16,
+          "height": 32,
+          "offset": "0x00AE390C",
+          "sha256": "64841eceddaab426d484ca89441dc44eecaadbc0ef105d362789c879c1f28756"
+        }
+      ],
+      "pixel_counts": {
+        "0": 2506,
+        "4": 980,
+        "1": 610
+      },
+      "bbox": [
+        2,
+        2,
+        107,
+        22
+      ]
+    },
+    {
+      "source": "通信对战",
+      "target": "通信對戰",
+      "pieces": [
+        {
+          "sprite": 21,
+          "x": 0,
+          "width": 64,
+          "height": 32,
+          "offset": "0x00AE420C",
+          "sha256": "44d11c893c09d9cc367b0f33f877d2dd73e7cb6071598510cf8e7a262695b869"
+        },
+        {
+          "sprite": 20,
+          "x": 64,
+          "width": 32,
+          "height": 32,
+          "offset": "0x00AE400C",
+          "sha256": "5dc4dfc0dc0121ab5310ed9413652dae1a5dfbb8df776fe7e0fb22c75f6bb123"
+        }
+      ],
+      "pixel_counts": {
+        "0": 2822,
+        "4": 780,
+        "1": 494
+      },
+      "bbox": [
+        2,
+        2,
+        86,
+        22
+      ]
+    },
+    {
+      "source": "桃铁卡组",
+      "target": "桃鐵卡組",
+      "pieces": [
+        {
+          "sprite": 31,
+          "x": 0,
+          "width": 64,
+          "height": 32,
+          "offset": "0x00AE498C",
+          "sha256": "83def345cc1c104ee2c26fe7bb07598a73df82e584cda61a376f3fe944815fb3"
+        },
+        {
+          "sprite": 30,
+          "x": 64,
+          "width": 32,
+          "height": 32,
+          "offset": "0x00AE478C",
+          "sha256": "afb67a0637a05c77349f7b9b92da9fa5edc7d5a67dba380dbafd978f6ffa6829"
+        }
+      ],
+      "pixel_counts": {
+        "0": 2889,
+        "4": 752,
+        "1": 455
+      },
+      "bbox": [
+        2,
+        2,
+        86,
+        22
+      ]
+    },
+    {
+      "source": "附录",
+      "target": "附錄",
+      "pieces": [
+        {
+          "sprite": 41,
+          "x": 0,
+          "width": 32,
+          "height": 32,
+          "offset": "0x00AE4F8C",
+          "sha256": "bf805677ab725bd0144a91bee0c6198cc43084135d2d5c7df8f1ea8111f34237"
+        },
+        {
+          "sprite": 40,
+          "x": 32,
+          "width": 32,
+          "height": 32,
+          "offset": "0x00AE4D8C",
+          "sha256": "27ddd9c276f711f421aef39cb20a36d6ca82b0a8bd378ee010a2653290b80397"
+        }
+      ],
+      "pixel_counts": {
+        "0": 3447,
+        "4": 410,
+        "1": 239
+      },
+      "bbox": [
+        3,
+        2,
+        44,
+        22
+      ]
+    }
+  ]
+}

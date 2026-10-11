@@ -1,0 +1,27 @@
+{
+  "source_sha256": "073a385c1ba1bcd517e2cfea659e54d9e2a87cc3ea5f6f17fe0ba169083ec28f",
+  "labels": [
+    {
+      "source": "３年决战！",
+      "target": "３年決戰！",
+      "pieces": [
+        {
+          "sprite": 12,
+          "x": 0,
+          "width": 64,
+          "height": 32,
+          "offset": "0x00AE6884",
+          "sha256": "7ee67d470be5d027eb2b8a79a831532d1405042b23e73248678b2115c61ab6c2"
+        },
+        {
+          "sprite": 11,
+          "x": 64,
+          "width": 64,
+          "height": 32,
+          "offset": "0x00AE6484",
+          "sha256": "e2e1246bccb2d91cc0d37d34495e278bcf252105f2ab64bacb201514dba2cc56"
+        }
+      ]
+    }
+  ]
+}

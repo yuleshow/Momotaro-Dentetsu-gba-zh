@@ -1,0 +1,72 @@
+{
+  "source_sha256": "073a385c1ba1bcd517e2cfea659e54d9e2a87cc3ea5f6f17fe0ba169083ec28f",
+  "evidence": {
+    "screenshot": "analysis/opponent-graphics-source/16.png",
+    "oam": "analysis/opponent-graphics-source/oam.bin",
+    "vram": "analysis/opponent-graphics-source/vram.bin",
+    "method": "Unique exact ROM matches for 1D 4bpp opponent-name OBJ data; palette indices 0 transparent, 1 foreground, 2 shadow. Selected and unselected palettes are preserved.",
+    "unchanged": "Star icons, selection highlights, frames, portraits, and Japanese opponent-banner artwork."
+  },
+  "labels": [
+    {
+      "source": "鬼", "target": "鬼", "height": 16, "font_size": 12,
+      "foreground": 1, "outline": 2, "advance": 16, "origin": [1, 1],
+      "pieces": [{"x": 0, "width": 16, "height": 16, "offset": "0x00ABCE88", "sha256": "2159a827527b358aadb5de235ecaee312bb28d80d864e7e4e2d23a354bbc6347"}]
+    },
+    {
+      "source": "豆", "target": "豆", "height": 16, "font_size": 12,
+      "foreground": 1, "outline": 2, "advance": 16, "origin": [1, 1],
+      "pieces": [{"x": 0, "width": 32, "height": 16, "offset": "0x00ABCF08", "sha256": "688e4fc1009dc992828a7def46c7ff989322483b300bbc07d49187e2c190c68b"}]
+    },
+    {
+      "source": "鬼", "target": "鬼", "height": 16, "font_size": 12,
+      "foreground": 1, "outline": 2, "advance": 16, "origin": [1, 1],
+      "pieces": [{"x": 0, "width": 16, "height": 16, "offset": "0x00ABD008", "sha256": "ec5880dd148c307859269c94aa443767ec263dc7b1ad35f4bee69869286b3194"}]
+    },
+    {
+      "source": "赤", "target": "赤", "height": 16, "font_size": 12,
+      "foreground": 1, "outline": 2, "advance": 16, "origin": [1, 1],
+      "pieces": [{"x": 0, "width": 16, "height": 16, "offset": "0x00ABD088", "sha256": "5164d64ba715c2e302695bfdf1f9cccb4b3aeec9fc1feaaaac445c6bedd9a226"}]
+    },
+    {
+      "source": "马", "target": "馬", "height": 16, "font_size": 12,
+      "foreground": 1, "outline": 2, "advance": 16, "origin": [1, 1],
+      "pieces": [{"x": 0, "width": 16, "height": 16, "offset": "0x00ABD108", "sha256": "b34275482240a5b4d52ab014a76abecb6a538c304812b30ba20d54b7fc25fe24"}]
+    },
+    {
+      "source": "饿", "target": "餓", "height": 16, "font_size": 12,
+      "foreground": 1, "outline": 2, "advance": 16, "origin": [1, 1],
+      "pieces": [{"x": 0, "width": 16, "height": 16, "offset": "0x00ABD188", "sha256": "e5e1c90b51fe3a28b7475c589d213386a3371ac77031b918960e5fb686121863"}]
+    },
+    {
+      "source": "神", "target": "神", "height": 16, "font_size": 12,
+      "foreground": 1, "outline": 2, "advance": 16, "origin": [1, 1],
+      "pieces": [{"x": 0, "width": 16, "height": 16, "offset": "0x00ABD208", "sha256": "a41e912b349c1f45c30b266f8628a8f5005e30a1aa5b1699c22aac9530976d52"}]
+    },
+    {
+      "source": "风", "target": "風", "height": 16, "font_size": 12,
+      "foreground": 1, "outline": 2, "advance": 16, "origin": [1, 1],
+      "pieces": [{"x": 0, "width": 16, "height": 16, "offset": "0x00ABD288", "sha256": "53e3bcc2d230173fc59d0f98ac11c1dcf6e7b470cfd4d9081b6b22393b0fe9c3"}]
+    },
+    {
+      "source": "罗", "target": "羅", "height": 16, "font_size": 12,
+      "foreground": 1, "outline": 2, "advance": 16, "origin": [1, 1],
+      "pieces": [{"x": 0, "width": 16, "height": 16, "offset": "0x00ABD308", "sha256": "d25a226a73229ff3cdc877763f92cda5b15d44851bbc69b6ca9ea2647a45e9df"}]
+    },
+    {
+      "source": "阿修", "target": "阿修", "height": 16, "font_size": 12,
+      "foreground": 1, "outline": 2, "advance": 16, "origin": [1, 1],
+      "pieces": [{"x": 0, "width": 32, "height": 16, "offset": "0x00ABD388", "sha256": "e7556fd3d7b3a2c7453a1327de5da1f816b0b7f468ef073792f78871027ad5be"}]
+    },
+    {
+      "source": "阎魔", "target": "閻魔", "height": 16, "font_size": 12,
+      "foreground": 1, "outline": 2, "advance": 16, "origin": [1, 1],
+      "pieces": [{"x": 0, "width": 32, "height": 16, "offset": "0x00ABD508", "sha256": "a8e37017968665f47689c172adede23e320f7a0628f309fe29b24584b8942b59"}]
+    },
+    {
+      "source": "佐久间", "target": "佐久間", "height": 16, "font_size": 10,
+      "foreground": 1, "outline": 2, "advance": 10, "origin": [0, 1],
+      "pieces": [{"x": 0, "width": 32, "height": 16, "offset": "0x00ABD608", "sha256": "25cf9b579df059baa0f57c293b3ad99c061a671e45b116d0de4027305bab85ad"}]
+    }
+  ]
+}

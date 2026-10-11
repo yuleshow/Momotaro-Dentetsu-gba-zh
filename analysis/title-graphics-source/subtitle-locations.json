@@ -1,0 +1,180 @@
+{
+  "source_sha256": "073a385c1ba1bcd517e2cfea659e54d9e2a87cc3ea5f6f17fe0ba169083ec28f",
+  "labels": [
+    {
+      "source": "打造黄金卡组",
+      "target": "打造黃金卡組",
+      "height": 16,
+      "font_size": 12,
+      "foreground": 4,
+      "outline": 10,
+      "advance": 12,
+      "origin": [
+        3,
+        2
+      ],
+      "pieces": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 8,
+          "height": 8,
+          "offset": "0x00AB3888",
+          "sha256": "870cfe030c6e2bf6da33c82597bc9d8bca29692f37fca594bdb7c10bd477564d"
+        },
+        {
+          "x": 8,
+          "y": 0,
+          "width": 8,
+          "height": 8,
+          "offset": "0x00AB38A8",
+          "sha256": "68a3f8f8773f1f10b829154e8f51f3390a19c6bfb86307d1ad31195e95f80038"
+        },
+        {
+          "x": 16,
+          "y": 0,
+          "width": 8,
+          "height": 8,
+          "offset": "0x00AB38C8",
+          "sha256": "b29228a8d2f69352eb5cac85d8ab46b77addeb34ed4f61a7a4afc8f71a9a38e2"
+        },
+        {
+          "x": 24,
+          "y": 0,
+          "width": 8,
+          "height": 8,
+          "offset": "0x00AB38E8",
+          "sha256": "490b4d0bc3ad82aab682adc5a5889bdcb93052199f10ea167fe68444e8ba6754"
+        },
+        {
+          "x": 32,
+          "y": 0,
+          "width": 8,
+          "height": 8,
+          "offset": "0x00AB3908",
+          "sha256": "bdbf5032c07807ff7492bf87ed7cc7fcfa80ac8b6dfef7b60e63f5e599864a96"
+        },
+        {
+          "x": 40,
+          "y": 0,
+          "width": 8,
+          "height": 8,
+          "offset": "0x00AB3928",
+          "sha256": "c749205450939774db4335f4918a0d31f9a5ab4e5915b2dfe7a7da066ef16185"
+        },
+        {
+          "x": 48,
+          "y": 0,
+          "width": 8,
+          "height": 8,
+          "offset": "0x00AB3948",
+          "sha256": "1e41d5aacf35e59fff4557782445d4328a36e088c31485549086a82b54612954"
+        },
+        {
+          "x": 56,
+          "y": 0,
+          "width": 8,
+          "height": 8,
+          "offset": "0x00AB3968",
+          "sha256": "7533e4565bf4f07449ae026e258ec5ad2726282d6abbef5b394ad24a2d2b575d"
+        },
+        {
+          "x": 64,
+          "y": 0,
+          "width": 8,
+          "height": 8,
+          "offset": "0x00AB3988",
+          "sha256": "60428c55c5382642246a23e85a380caea4f5423f18de63cb1c888b560d2b4305"
+        },
+        {
+          "x": 72,
+          "y": 0,
+          "width": 8,
+          "height": 8,
+          "offset": "0x00AB39A8",
+          "sha256": "28eb0e1dd2c2a72d40160f21f8317e2de3d7530d206523920f1b620a51da9310"
+        },
+        {
+          "x": 0,
+          "y": 8,
+          "width": 8,
+          "height": 8,
+          "offset": "0x00AB3C88",
+          "sha256": "c13cbcc96343f82adcec45853a01976a73f4672db02c96e10cb939d0df9afcd8"
+        },
+        {
+          "x": 8,
+          "y": 8,
+          "width": 8,
+          "height": 8,
+          "offset": "0x00AB3CA8",
+          "sha256": "24a01b2f3b748f57864070e09b8ecce3630674202c5426122a532fdac245a516"
+        },
+        {
+          "x": 16,
+          "y": 8,
+          "width": 8,
+          "height": 8,
+          "offset": "0x00AB3CC8",
+          "sha256": "921a6e4cc2ce32182bce9549fe734a1bef6f8337397e60669151522fb0ba6f0b"
+        },
+        {
+          "x": 24,
+          "y": 8,
+          "width": 8,
+          "height": 8,
+          "offset": "0x00AB3CE8",
+          "sha256": "4195344af58cd3b3a9ab2be4f9a4b1f8bda4bd2d4e56107c59fe0493d764ac91"
+        },
+        {
+          "x": 32,
+          "y": 8,
+          "width": 8,
+          "height": 8,
+          "offset": "0x00AB3D08",
+          "sha256": "2860907cf126fd887728a1371c59c53fd8c5342749172058750b42cccf780f62"
+        },
+        {
+          "x": 40,
+          "y": 8,
+          "width": 8,
+          "height": 8,
+          "offset": "0x00AB3D28",
+          "sha256": "48abc594584561671347fbfc7502979764e85383d46a0022c83c0b2b6759ef0a"
+        },
+        {
+          "x": 48,
+          "y": 8,
+          "width": 8,
+          "height": 8,
+          "offset": "0x00AB3D48",
+          "sha256": "6e3890a88ef5b5ebe18ffabff0ca34c665cb6216bbdd9da384bbd098a1a100b1"
+        },
+        {
+          "x": 56,
+          "y": 8,
+          "width": 8,
+          "height": 8,
+          "offset": "0x00AB3D68",
+          "sha256": "9fdc96647dd1b935aac1e33eb47bf42de2db5b8e25a3b9c95dcb7859a5f81cff"
+        },
+        {
+          "x": 64,
+          "y": 8,
+          "width": 8,
+          "height": 8,
+          "offset": "0x00AB3D88",
+          "sha256": "7f0e3c346542ef674998bd88478b9443b5f2d22fd53064a1da9bbed83946b027"
+        },
+        {
+          "x": 72,
+          "y": 8,
+          "width": 8,
+          "height": 8,
+          "offset": "0x00AB3DA8",
+          "sha256": "fe45b70439f905a1221a32f4c40719d22e2d229280b46734e2faa62f12c9bfd9"
+        }
+      ]
+    }
+  ]
+}

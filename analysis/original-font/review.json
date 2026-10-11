@@ -1,0 +1,29 @@
+{
+  "source_sha256": "073a385c1ba1bcd517e2cfea659e54d9e2a87cc3ea5f6f17fe0ba169083ec28f",
+  "verification_source": "direct_bitmap_inspection",
+  "image": "analysis/original-font/ocr-misses.png",
+  "glyphs": [
+    {"code": "0000", "character": " ", "verified": true},
+    {"code": "0006", "character": "\"", "verified": true, "verification_source": "bitmap_and_text_context", "image": "analysis/original-font/punctuation-audit-v8.png"},
+    {"code": "0008", "character": "$", "verified": true, "verification_source": "bitmap_and_text_context", "image": "analysis/original-font/punctuation-audit-v8.png"},
+    {"code": "000B", "character": "'", "verified": true, "verification_source": "bitmap_and_text_context", "image": "analysis/original-font/punctuation-audit-v8.png"},
+    {"code": "000C", "character": "(", "verified": true},
+    {"code": "000D", "character": ")", "verified": true, "verification_source": "bitmap_and_text_context", "image": "analysis/original-font/parentheses-review.png", "matching_japanese_code": "000D"},
+    {"code": "000E", "character": "*", "verified": true, "verification_source": "bitmap_and_text_context", "image": "analysis/original-font/punctuation-audit-v8.png"},
+    {"code": "000F", "character": "+", "verified": true, "verification_source": "bitmap_and_text_context", "image": "analysis/original-font/punctuation-audit-v8.png"},
+    {"code": "0012", "character": ".", "verified": true, "verification_source": "bitmap_and_text_context", "image": "analysis/original-font/punctuation-audit-v8.png"},
+    {"code": "001E", "character": "赤", "verified": true},
+    {"code": "001F", "character": "閻", "verified": true, "user_confirmed": true, "verification_source": "user_confirmation", "image": "analysis/original-font/opponent-name-review.png", "user_note": "User clarified the final name as 閻魔 after providing https://zh.wikipedia.org/wiki/閻摩; this supersedes the earlier 閰 reading."},
+    {"code": "0020", "character": "魔", "verified": true, "user_confirmed": true, "verification_source": "user_confirmation", "image": "analysis/original-font/opponent-name-review.png"},
+    {"code": "0289", "character": "渋", "verified": true, "user_confirmed": true, "verification_source": "user_confirmation", "image": "analysis/original-font/unidentified-three.png", "user_note": "User clarified the Japanese character as 渋 (Chinese 澀), not 渉/涉."},
+    {"code": "028A", "character": "谷", "verified": true, "user_confirmed": true, "verification_source": "user_confirmation", "image": "analysis/original-font/unconfirmed-028A.png"},
+    {"code": "04EE", "character": "梅", "verified": true, "user_confirmed": true, "verification_source": "user_confirmation", "image": "analysis/original-font/unidentified-three.png"},
+    {"code": "067C", "character": "迎", "verified": true, "user_confirmed": true, "verification_source": "user_confirmation", "image": "analysis/original-font/unidentified-three.png"},
+    {"code": "0493", "character": "「", "verified": true},
+    {"code": "05B0", "character": "【", "verified": true},
+    {"code": "069F", "character": "雷", "verified": true},
+    {"code": "0660", "character": "借", "verified": true},
+    {"code": "0060", "character": "罗", "verified": true, "verification_source": "exact_bitmap_match", "matching_confirmed_code": "390B"},
+    {"code": "0221", "character": "赤", "verified": true, "verification_source": "exact_bitmap_match", "matching_confirmed_code": "001E"}
+  ]
+}

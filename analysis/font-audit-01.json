@@ -1,0 +1,21 @@
+{
+  "source_sha256": "073a385c1ba1bcd517e2cfea659e54d9e2a87cc3ea5f6f17fe0ba169083ec28f",
+  "verification_source": "assistant_bitmap_and_text_context",
+  "image": "analysis/audit-high-usage-01.png",
+  "note": "Direct inspection of enlarged ROM glyphs corroborated by extracted dialogue. These are assistant audit confirmations, not additional user confirmations.",
+  "glyphs": [
+    {"code": "37E9", "character": "这", "verified": true, "context": "这张记忆卡; 这不是PS2用记忆卡"},
+    {"code": "37AC", "character": "铁", "verified": true, "context": "桃铁三年决战; 桃铁数据文件"},
+    {"code": "0220", "character": "来", "verified": true, "context": "买来了卡片; 轻松起来"},
+    {"code": "3796", "character": "电", "verified": true, "context": "电铁; 电车"},
+    {"code": "01D3", "character": "会", "verified": true, "context": "经营会轻松些"},
+    {"code": "3794", "character": "请", "verified": true, "context": "请不要取出记忆卡; 请确认记忆卡"},
+    {"code": "37A0", "character": "吗", "verified": true, "context": "设为本机吗; 确定要格式化吗"},
+    {"code": "37A3", "character": "为", "verified": true, "context": "已变更为; 设为本机"},
+    {"code": "388A", "character": "么", "verified": true, "context": "这么; 那么"},
+    {"code": "37F1", "character": "时", "verified": true, "context": "振动时长; 振动时间"},
+    {"code": "379C", "character": "键", "verified": true, "context": "按B键退出; 按Start键执行"},
+    {"code": "378D", "character": "车", "verified": true, "context": "电车; 车站"},
+    {"code": "0130", "character": "的", "verified": true, "previous_ocr_candidate": "狗", "context": "目的地; 所有的; 喜欢的; 最爱的社长"}
+  ]
+}
