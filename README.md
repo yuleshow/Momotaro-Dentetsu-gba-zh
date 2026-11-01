@@ -729,13 +729,36 @@ The previous [v4 ROM](build/momotetsu-zh-Hant.experimental-v4.gba) and
 V6 retains v4's [high-usage accuracy audit](analysis/font-audit-01.json), including
 the corrected extracted reading of `0130` from 狗 to 的 in 2,649 occurrences.
 
-Use the ROM directly in mGBA, or apply the IPS patch to the exact Simplified
-Chinese source ROM. Do not apply it to the Japanese ROM or a previous build.
-The required source SHA-256 is:
+Use the ROM directly in mGBA, or apply the IPS patch to the exact verified source
+ROM below. Do not apply it to a different dump, the Japanese ROM, or a previous
+build.
 
-```text
-073a385c1ba1bcd517e2cfea659e54d9e2a87cc3ea5f6f17fe0ba169083ec28f
-```
+### Original ROM Information
+
+| Property | Value |
+| --- | --- |
+| Platform | Nintendo Game Boy Advance |
+| Game title | Momotaro Dentetsu G: Gold Deck o Tsukure! (`MOMOTETSU-G`) |
+| Region / game code | Japan / `BM2J` |
+| Maker code | `18` |
+| Revision | `00` |
+| ROM size | 16 MiB (16,777,216 bytes) |
+| CRC32 | `36DE69CA` |
+| MD5 | `5601c26d11553e1bb4b4fa050e59c920` |
+| SHA-1 | `880db29bd20036bb7b3f058934f7b6cf119b9bdd` |
+| SHA-256 | `073a385c1ba1bcd517e2cfea659e54d9e2a87cc3ea5f6f17fe0ba169083ec28f` |
+
+The bundled reference archive
+`Momotarou Dentetsu G - Gold Deck o Tsukure! (Japan).zip` contains a separate
+16 MiB member dump:
+
+| Property | Value |
+| --- | --- |
+| Member CRC32 | `5F3E184E` |
+| Member MD5 | `80177651fac95135f205c00a5f8ae922` |
+| Member SHA-1 | `acb39c3da3c93247e6c2fd7fbda7df2fc720cdd7` |
+| Member SHA-256 | `f5853a1d314d9f534073fddf41bda7a4648ddf777860f3c309223bd45e563c86` |
+| Archive SHA-256 | `c1f07f5d28b157a94790a0e15b0402cb058477b94ae298b02b0ee35be416cfec` |
 
 The current build redraws 3,272 font slots, adjusts 461 context-dependent text
 words, and adds 63 contextual glyphs in verified empty space. Seven embedded
