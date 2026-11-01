@@ -1,0 +1,46 @@
+cheats = 9
+
+cheat0_desc = "P1 money = 999 yi 9990 wan - disable after applying"
+cheat0_code = "82010150 423F+82010152 000F"
+cheat0_enable = false
+cheat0_handler = 0
+
+cheat1_desc = "P1 Ji Hao De Ka - REPLACES utility slot 1; disable before use"
+cheat1_code = "82010170 0050+82010172 0000"
+cheat1_enable = false
+cheat1_handler = 0
+
+cheat2_desc = "P1 Gun Kai Ka - sends poverty god away; REPLACES utility slot 2"
+cheat2_code = "82010174 004E+82010176 0000"
+cheat2_enable = false
+cheat2_handler = 0
+
+cheat3_desc = "P1 Yi Miao Ka - REPLACES utility slot 3; disable before use"
+cheat3_code = "82010178 0042+8201017A 0000"
+cheat3_enable = false
+cheat3_handler = 0
+
+cheat4_desc = "P2 money = 100 wan - disable after applying"
+cheat4_code = "82010240 000A+82010242 0000"
+cheat4_enable = false
+cheat4_handler = 0
+
+cheat5_desc = "P3 money = 100 wan - disable after applying"
+cheat5_code = "82010330 000A+82010332 0000"
+cheat5_enable = false
+cheat5_handler = 0
+
+cheat6_desc = "P4 money = 100 wan - disable after applying"
+cheat6_code = "82010420 000A+82010422 0000"
+cheat6_enable = false
+cheat6_handler = 0
+
+cheat7_desc = "P1 multi utility cards per turn - v24 mGBA; dice/movement cards end turn"
+cheat7_code = "6001B907 00004801+6001B908 00004700+6001B909 000046C0+6001B90A 0000FF81+6001B90B 000008FF+607FFFC0 00004650+607FFFC1 00002F00+607FFFC2 0000D105+607FFFC3 00002808+607FFFC4 0000D103+607FFFC5 00009908+607FFFC6 00002905+607FFFC7 0000D300+607FFFC8 00002000+607FFFC9 0000B00D+607FFFCA 0000BC38+607FFFCB 00004698+607FFFCC 000046A1+607FFFCD 000046AA+607FFFCE 0000BCF0+607FFFCF 0000BC02+607FFFD0 00004708"
+cheat7_enable = false
+cheat7_handler = 0
+
+cheat8_desc = "P1 Qu Mo Ka - REPLACES utility slot 4; disable before use"
+cheat8_code = "8201017C 003C+8201017E 0000"
+cheat8_enable = false
+cheat8_handler = 0

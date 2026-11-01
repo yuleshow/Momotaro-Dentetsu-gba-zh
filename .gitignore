@@ -10,6 +10,13 @@
 !/assets/
 /assets/*
 !/assets/Silver-ATTRIBUTION.md
+!/assets/*-marquee.png
+!/assets/cheats/
+/assets/cheats/*
+!/assets/cheats/*.cht
+!/assets/screenshots/
+/assets/screenshots/*
+!/assets/screenshots/*.png
 !/analysis/
 /analysis/*
 !/analysis/font-map-consolidated.json
@@ -30,6 +37,9 @@
 !/analysis/opponent-graphics-source/
 /analysis/opponent-graphics-source/*
 !/analysis/opponent-graphics-source/label-locations.json
+!/analysis/event-graphics-source/
+/analysis/event-graphics-source/*
+!/analysis/event-graphics-source/label-locations.json
 !/analysis/emulator-v2-gameplay/
 /analysis/emulator-v2-gameplay/*
 !/analysis/emulator-v2-gameplay/scenario.json
